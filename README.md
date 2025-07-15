@@ -1,10 +1,10 @@
 # Manimatic
 
-![Manimatic Landing Page](./assets/landing.png)
-
 **Create Videos with AI** – Transform mathematical concepts into animated videos using natural language prompts.
 
 ---
+
+<img src="/backend/demo/home.png">
 
 ## 🎯 Project Overview
 
