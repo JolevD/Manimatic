@@ -4,7 +4,7 @@
 
 ---
 
-<img src="/backend/demo/home.png">
+<img src="https://github.com/JolevD/Manimatic/blob/main/demo/home.png" alt="">
 
 ## 🎯 Project Overview
 
@@ -30,7 +30,7 @@ Manimatic is a full-stack application that leverages the Manim Community Edition
 | -------------- | ---------------------------------- |
 | **Frontend**   | React, TypeScript, Tailwind CSS    |
 | **Backend**    | Node.js, Express, Python (ManimCE) |
-| **AI**         | OpenAI API (GPT)                   |
+| **AI**         | Anthropic API (Claude)             |
 | **Rendering**  | Manim Community Edition            |
 | **Deployment** | Docker,                            |
 
